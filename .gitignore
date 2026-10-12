@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+runs/
+logs/
+checkpoints/
+*.pt
+*.pth
+*.mp4
+.DS_Store

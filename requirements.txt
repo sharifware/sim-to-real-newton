@@ -1,0 +1,5 @@
+# Pin exact versions once your Newton + Isaac Lab setup works.
+numpy
+matplotlib
+pandas
+jupyter
