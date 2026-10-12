@@ -53,7 +53,7 @@ Results will be added as experiments finish. Nothing below is measured yet.
 
 ## Roadmap
 
-- [ ] Environment setup (Newton + Isaac Lab on RTX 5080)
+- [x] Environment setup (Newton + Isaac Lab on RTX 5080)
 - [ ] Control and RL baselines
 - [ ] Quadruped locomotion policy trained
 - [ ] Fixed-physics vs. domain-randomization comparison
